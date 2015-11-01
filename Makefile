@@ -1,6 +1,6 @@
 PROF=-pg
 CFLAGS=-g -Wall $(PROF) -O2
-DIST=rx-1.1.2
+DIST=rx-1.1.3
 
 all	: rx_example rx_test
 
